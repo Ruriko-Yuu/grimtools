@@ -1,0 +1,344 @@
+[
+  {
+    "tagName": "div",
+    "children": [
+      {
+        "tagName": "a",
+        "attributes": {
+          "class": "item-name rare",
+          "item-id": "it12746",
+          "href": "/db/zh/items/12746"
+        },
+        "children": [],
+        "text": "凯蒙的祝圣之刃"
+      }
+    ]
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "item-description-text" },
+    "children": [],
+    "text": "\"用寇瓦克的血加持过的武器，授予其精锐\""
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "item-type" },
+    "children": [],
+    "text": "稀有 单手剑"
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "item-base-stats" },
+    "children": [
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-silver" },
+            "children": [],
+            "text": "点物理伤害"
+          }
+        ],
+        "text": "96-146"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-silver" },
+            "children": [],
+            "text": "穿刺转换"
+          }
+        ],
+        "text": "20%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-silver" },
+            "children": [],
+            "text": "每秒攻击"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-white" },
+            "children": [],
+            "text": "1.91"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-silver" },
+            "children": [],
+            "text": "次"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "div",
+    "attributes": {
+      "class": "tooltip-skill-params item-padded-h item-padded-v"
+    },
+    "children": [
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [],
+            "text": "元素伤害"
+          }
+        ],
+        "text": "+67/+100%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [],
+            "text": "攻击速度"
+          }
+        ],
+        "text": "+4/+6%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [],
+            "text": "冻结抗性"
+          }
+        ],
+        "text": "24/36%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-olive" },
+            "children": [],
+            "text": "艾瑞奥特之镜"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [],
+            "text": "技能等级"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-light-gold" },
+            "children": [],
+            "text": "+3"
+          }
+        ]
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-olive" },
+            "children": [],
+            "text": "魂火"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [],
+            "text": "技能等级"
+          },
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-light-gold" },
+            "children": [],
+            "text": "+3"
+          }
+        ]
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-brown" },
+                "children": [],
+                "text": "至"
+              },
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-light-blue" },
+                "children": [],
+                "text": "清算之眼"
+              }
+            ],
+            "text": "的武器伤害"
+          }
+        ],
+        "text": "12%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-brown" },
+                "children": [],
+                "text": "至"
+              },
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-light-blue" },
+                "children": [],
+                "text": "清算之眼"
+              }
+            ],
+            "text": "的物理伤害转换为闪电伤害"
+          }
+        ],
+        "text": "100%"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-brown" },
+                "children": [],
+                "text": "至"
+              },
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-light-blue" },
+                "children": [],
+                "text": "艾瑞奥特之镜"
+              }
+            ],
+            "text": "闪电伤害"
+          }
+        ],
+        "text": "22-70"
+      },
+      {
+        "tagName": "div",
+        "children": [
+          {
+            "tagName": "span",
+            "attributes": { "class": "text-brown" },
+            "children": [
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-brown" },
+                "children": [],
+                "text": "至"
+              },
+              {
+                "tagName": "span",
+                "attributes": { "class": "text-light-blue" },
+                "children": [],
+                "text": "艾瑞奥特之镜"
+              }
+            ],
+            "text": "元素伤害"
+          }
+        ],
+        "text": "+400%"
+      }
+    ]
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "item-req" },
+    "children": [
+      { "tagName": "div", "children": [], "text": "需要玩家等级：94" },
+      { "tagName": "div", "children": [], "text": "需要灵巧：529" },
+      { "tagName": "div", "children": [], "text": "物品等级: 94" }
+    ]
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "dropped-from item-padded-v" },
+    "children": [
+      {
+        "tagName": "div",
+        "attributes": { "class": "title" },
+        "children": [],
+        "text": "掉落自:"
+      },
+      {
+        "tagName": "ul",
+        "children": [
+          {
+            "tagName": "li",
+            "attributes": { "class": "text-purple" },
+            "children": [
+              {
+                "tagName": "a",
+                "attributes": {
+                  "class": "monster-name text-purple",
+                  "monster-id": "m1802",
+                  "target": "_blank",
+                  "href": "/monsterdb/1802"
+                },
+                "children": [],
+                "text": "寇瓦克的化身 ~ 神父凯蒙"
+              },
+              {
+                "tagName": "span",
+                "attributes": { "class": "map-link" },
+                "children": [
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "target": "_blank",
+                      "href": "/map/monsters/1802"
+                    },
+                    "children": [],
+                    "text": "在地图中查看"
+                  }
+                ],
+                "text": "]"
+              }
+            ],
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "dlc-badge" },
+    "children": [],
+    "text": "Forgotten Gods"
+  },
+  {
+    "tagName": "div",
+    "attributes": { "class": "mi-badge" },
+    "children": [],
+    "text": "MI"
+  }
+]
